@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sarikak7.github.io/csb-qsr1b0/static/css/main.247212c6.chunk.css",
+    "main.js": "https://sarikak7.github.io/csb-qsr1b0/static/js/main.e1376d58.chunk.js",
+    "main.js.map": "https://sarikak7.github.io/csb-qsr1b0/static/js/main.e1376d58.chunk.js.map",
+    "runtime-main.js": "https://sarikak7.github.io/csb-qsr1b0/static/js/runtime-main.4d0ba229.js",
+    "runtime-main.js.map": "https://sarikak7.github.io/csb-qsr1b0/static/js/runtime-main.4d0ba229.js.map",
+    "static/js/2.b0504009.chunk.js": "https://sarikak7.github.io/csb-qsr1b0/static/js/2.b0504009.chunk.js",
+    "static/js/2.b0504009.chunk.js.map": "https://sarikak7.github.io/csb-qsr1b0/static/js/2.b0504009.chunk.js.map",
+    "index.html": "https://sarikak7.github.io/csb-qsr1b0/index.html",
+    "static/css/main.247212c6.chunk.css.map": "https://sarikak7.github.io/csb-qsr1b0/static/css/main.247212c6.chunk.css.map",
+    "static/js/2.b0504009.chunk.js.LICENSE.txt": "https://sarikak7.github.io/csb-qsr1b0/static/js/2.b0504009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d0ba229.js",
+    "static/js/2.b0504009.chunk.js",
+    "static/css/main.247212c6.chunk.css",
+    "static/js/main.e1376d58.chunk.js"
+  ]
+}
